@@ -3,14 +3,18 @@ Example of ListView replacements
 
 This example shows how the deprecated listView rendering of tables can be emulated using TABLE, SCROLLGRID, the new STRETXH=X attribute and presentation styles.  Refer to the following ask-reuben article https://4js.com/ask-reuben/ig-109/ and also the following Apple Developer guide https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/
 
-The naming convention used is as follows ...
-1,2,3 - number of fields
-i - includes images
-b - beneath or below
-l - left
-r - right
+The naming convention used is as follows ...  
+
+- 1,2,3 - number of fields
+- i - includes images
+- b - beneath or below
+- l - left
+- r - right
+
 
 **listView1**
+
+Equivalent of Apples Basic (Default) / UITableViewCellStyleDefault
 
 ![listview1](https://user-images.githubusercontent.com/13615993/169744459-54a97251-8828-4731-9120-83ae93556a6e.png)
 
