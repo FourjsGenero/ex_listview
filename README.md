@@ -1,7 +1,7 @@
 # ex_listview
 Example of ListView replacements 
 
-This example shows how the deprecated listView rendering of tables can be emulated using TABLE, SCROLLGRID, the new STRETXH=X attribute and presentation styles.  Refer to the following ask-reuben article https://4js.com/ask-reuben/ig-109/ and also the following Apple Developer guide https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/
+This example shows how the deprecated listView rendering of tables can be emulated using TABLE, SCROLLGRID, the new STRETCH=X attribute and presentation styles.  Refer to the following ask-reuben article https://4js.com/ask-reuben/ig-109/ and also the following Apple Developer guide https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/
 
 The naming convention used is as follows ...  
 
