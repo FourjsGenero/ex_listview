@@ -1,0 +1,14 @@
+LAYOUT (TEXT="ListView 2ri Column")
+TABLE (STYLE="list")
+{
+[f01       ][f02]
+}
+END
+END
+ATTRIBUTES
+LABEL f01 = formonly.field1,  STRETCH=X, JUSTIFY=LEFT, IMAGECOLUMN=img;
+LABEL f02 = formonly.field2, JUSTIFY=RIGHT;
+PHANTOM formonly.img;
+
+INSTRUCTIONS
+SCREEN RECORD scr(field1, field2, img)

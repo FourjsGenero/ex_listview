@@ -1,0 +1,16 @@
+LAYOUT (TEXT="ListView 2c Column")
+SCROLLGRID (STYLE="list",  WANTFIXEDPAGESIZE=NO)
+{
+[i01][f01                   |f03]
+[   ][f02                   |   ]  
+---------------------------------                                    
+}
+END
+END
+ATTRIBUTES
+LABEL f01 = formonly.field1, STRETCH=X, STYLE="list1";
+LABEL f02 = formonly.field2, STRETCH=X, STYLE="list2";
+LABEL f03 = formonly.field3, STRETCH=X, STYLE="list3";
+IMAGE i01 = formonly.img, AUTOSCALE, STYLE="noborder";
+INSTRUCTIONS
+SCREEN RECORD scr(field1, field2, field3, img)

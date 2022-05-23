@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ANSI_X3.4-1968"?>
+<StyleList>
+    <Style name="Window">
+        <StyleAttribute name="windowType" value="normal"/>
+        <StyleAttribute name="actionPanelPosition" value="chrome"/>
+    </Style>
+    <Style name="Table.list">
+        <StyleAttribute name="alternateRows" value="no"/>
+        <StyleAttribute name="showGrid" value="horizontal"/>
+        <StyleAttribute name="headerHidden" value="yes"/>
+        <StyleAttribute name="highlightCurrentRow" value="no"/>
+        <StyleAttribute name="fontSize" value="1.25em"/>
+    </Style>
+</StyleList>

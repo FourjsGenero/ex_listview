@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ANSI_X3.4-1968"?>
+<StyleList>
+    <Style name="Window">
+        <StyleAttribute name="windowType" value="normal"/>
+        <StyleAttribute name="actionPanelPosition" value="chrome"/>
+    </Style>
+    <Style name="ScrollGrid.list">
+        <StyleAttribute name="alternateRows" value="yes"/>
+        <StyleAttribute name="highlightCurrentRow" value="no"/>
+    </Style>
+    <Style name=".list1">
+        <StyleAttribute name="fontSize" value="1em"/>
+        <StyleAttribute name="fontWeight" value="bold"/>
+    </Style>
+    <Style name=".list2">
+        <StyleAttribute name="fontSize" value="0.8em"/>
+        <StyleAttribute name="fontStyle" value="italic"/>
+    </Style>
+    <Style name=".list3">
+        <StyleAttribute name="fontSize" value="1.5em"/>
+        <StyleAttribute name="fontWeight" value="bold"/>
+    </Style>
+    <Style name="Image.noborder">
+        <StyleAttribute name="border" value="none"/>
+    </Style>
+</StyleList>
