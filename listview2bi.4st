@@ -6,7 +6,7 @@
     </Style>
     <Style name="ScrollGrid.list">
         <StyleAttribute name="alternateRows" value="yes"/>
-        <StyleAttribute name="highlightCurrentRow" value="no"/>
+        <StyleAttribute name="rowAspect" value="list"/>
     </Style>
     <Style name=".list1">
         <StyleAttribute name="fontSize" value="1em"/>
